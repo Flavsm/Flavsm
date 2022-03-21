@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming / Traveling / Sports
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on the frontend of any project
-- 📫 How to reach me: flaardito@gmail.com / twitter.com/devflav
+- 📫 How to reach me: flamedeiros@protonmail.com / twitter.com/devflav
 
 <!---
 Flavsm/Flavsm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
