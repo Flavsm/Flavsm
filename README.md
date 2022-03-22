@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Flavsm
+- 👋 Hi, I’m Flavia
 - 👀 I’m interested in Programming / Traveling / Sports
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on the frontend of any project
