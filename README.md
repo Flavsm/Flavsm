@@ -17,7 +17,7 @@
    <a href="https://www.linkedin.com/in/devFlaviaMedeiros" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  
-  <a href="htttps://discord.com/users/#5191" target="_blank">
+  <a href="https://discordapp.com/users/5191" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>  
   <a href="https://twitter.com/devFlav" target="_blank">
