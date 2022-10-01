@@ -11,9 +11,11 @@
 <a href="https://www.linkedin.com/in/flavia-medeiros-developer" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  
+<!---
   <a  href="https://devflav.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge" alt="example"/>
   </a>
+--->
   <a href="mailto:flaardito@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
