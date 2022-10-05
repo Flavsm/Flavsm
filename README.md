@@ -16,9 +16,11 @@
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge" alt="example"/>
   </a>
 --->
+<!---
   <a href="mailto:flaardito@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
+--->
   <a href="https://discordapp.com/users/5191" target="_blank">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>  
